@@ -47,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/decode.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="e#102#119#0" expanded="true" />
               </folding>
@@ -97,6 +97,9 @@
       <find>(*um)</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -117,6 +120,7 @@
     <option name="width" value="861" />
     <option name="height" value="778" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -128,11 +132,6 @@
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,12 +177,12 @@
       <updated>1554844839784</updated>
       <workItem from="1554844843520" duration="32333000" />
       <workItem from="1555443145586" duration="3688000" />
-      <workItem from="1555621574533" duration="354000" />
+      <workItem from="1555621574533" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36375000" />
+    <option name="totallyTimeSpent" value="36620000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="519" y="53" width="861" height="778" extended-state="0" />
@@ -277,7 +276,7 @@
     <entry file="file://$PROJECT_DIR$/decode.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#102#119#0" expanded="true" />
           </folding>
