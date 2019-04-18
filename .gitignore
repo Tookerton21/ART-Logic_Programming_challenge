@@ -1,2 +1,5 @@
 cmake-build-debug/
 CMakeList.txt
+.idea/
+.DS_Store
+.gitignore
